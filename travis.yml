@@ -2,3 +2,5 @@ deploy:
   provider: surge
   project: .
   domain: trctiles.surge.sh
+  SURGE_LOGIN: bobby.a.baker@gmail.com
+  SURGE_TOKEN: 16f3392bb58d336be38390fccada5218
